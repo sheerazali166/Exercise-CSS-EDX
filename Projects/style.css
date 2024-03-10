@@ -1,0 +1,192 @@
+
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+body {
+
+    background-color: #bcbd9f94;
+}
+
+#sectionTop {
+
+    padding: 20px;
+   
+}
+
+#sectionTop p {
+
+    margin-top: 20px;
+}
+
+#sectionTop h1{
+
+    color:#67bde0;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+
+#sectionTop h2 {
+
+    color: #ff009de3;
+}
+
+#sectionTop strong {
+
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#secondSection {
+
+    border: 5px #F2CA46 solid;
+    padding: 20px;
+}
+
+#secondSection h1 {
+
+    color: #ff009de3;
+    
+}
+
+#secondSection ul {
+
+    list-style: none;
+
+}
+
+#secondSection li {
+
+    margin-top: 20px;
+}
+
+#secondSection p {
+
+    font-style: italic;
+    font-size: 20px;
+} 
+
+#university {
+    font-size: 20px;
+    border: 2px #67bde0 solid;
+    padding: 25px;
+    margin: 8px;
+}
+
+
+
+#certificates {
+
+    border: 2px #67bde0 solid;
+    font-size: 20px;
+    padding: 25px;
+    margin: 8px;
+}
+
+hr {
+
+   color: #67bde0; 
+}
+
+#thirdSection ul {
+
+    list-style: none;
+}
+
+#thirdSection {
+
+    border: 5px #F2CA46 solid;
+    padding: 20px;
+    margin-top: 20px;
+
+}
+
+ #title {
+
+    color: #ff009de3;
+    
+}
+
+#title_heading {
+
+    font-style: italic;
+    font-size: 20px;
+
+}
+
+#thirdSection ul {
+
+    /* font-size: 20px; */
+    border: 2px #67bde0 solid;
+    padding: 25px;
+    margin: 8px;
+
+}
+
+#thirdSection p {
+    margin-top: 20px;
+    margin-bottom: 20PX;
+}
+
+
+#thirdSection li {
+
+    margin-top: 35px;
+
+}
+
+#bottomSection {
+
+    border: 5px #F2CA46 solid;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+#bottomSectionH1{
+
+    color: #ff009de3;
+}
+
+#bottomSection p {
+
+    font-style: italic;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#favouriteFoods  {
+
+    font-size: 20px;
+    border: 2px #67bde0 solid;
+    padding: 25px;
+    margin: 8px;
+}
+
+#favouriteFoods ol {
+    padding-left: 20px;
+    margin-top: 20px;
+}
+
+
+#favouriteWebsites ul {
+    padding-left: 20px;
+    margin-top: 20px;
+}
+
+footer {
+
+    font-size: 20px;
+}
+
+#favouriteWebsites {
+
+    font-size: 20px;
+    border: 2px #67bde0 solid;
+    padding: 25px;
+    margin: 8px;
+
+}
